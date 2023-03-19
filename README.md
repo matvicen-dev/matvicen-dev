@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mateus Vicente a.k.a @matvicen-dev
 - 👀 I’m interested in learn a lot of programming
-- 🌱 I’m currently learning C, C++, Python and Artificial Intelligence
+- 🌱 I’m currently learning C, Java, Python and Artificial Intelligence
 - 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me: @matvicen on Instagram :)
 
